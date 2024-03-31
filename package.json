@@ -1,0 +1,11 @@
+{
+  "name": "morse-code-decoder",
+  "version": "1.0.0",
+  "description": "Morse code decoder for js-saviour-hunt",
+  "main": "src/decoder.js",
+  "scripts": {
+    "decode": "node src/decoder.js"
+  },
+  "author": "Nakul Sharma",
+  "license": "ISC"
+}
